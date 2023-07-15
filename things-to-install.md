@@ -17,3 +17,5 @@ Things I need on my system
  - nvidia drivers
  - cargo/rustup
  - build stuff in general
+ - zsh
+ - oh my zsh (?)
