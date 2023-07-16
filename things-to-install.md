@@ -19,3 +19,6 @@ Things I need on my system
  - build stuff in general
  - zsh
  - oh my zsh (?)
+ - obsidian md
+ - xournal++
+ - slack
